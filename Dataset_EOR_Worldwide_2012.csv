@@ -1,0 +1,332 @@
+Country,State (US) -province (CA) -Area WRLD,Type and operator,Field,County,Start date ,"Area, acres",No. Well prod.,No. Well inj.,Pay zone ,Formation,EOR type,EOR short,Porosity perc.,"Permeability, md","Depth, ft M21","Gravity, API","Oil, cp",Satur. perc. start,Satur. perc. end,"Oil, gradesF",Prev. Prod. ,Proj- matur. ,"tot. Prod., b-d","enh. Prod., b-d",Proj- eval. ,Profit,proj scope
+USA,Calif.,Aera Energy,South Belridge,Kem,1961,6200,1600,400,Tulare,us,STEAM,STEAM,35,2000,850,13.5,2750,75,20,95,Prim.,NC,22000,22000,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,South Belridge,Kem,1995,155,350,245,Diatomite Opal A,Tripol.,STEAM,STEAM,60,3,1400,29,26,45,20,110,WF,JS,12000,3000,Prom.,Yes,Exp. L.
+USA,Calif.,Aera Energy,Coalinga,Fresno,1965,540,434,91,Temblor,s,STEAM,STEAM,32,1350,1237.5,12.5,6000,60,10,84-98,Prim.,HF,5119,5119,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,Coalinga,Fresno,1987,290,85,19,Etchegoin,s,STEAM,STEAM,34,900,825,9.5,19750,55,10,84,Prim.,HF,1374,1374,Succ.,Yes,FW
+USA,Calif.,Aera Energy,Cymric,Kem,1986,600,130,70,Tulare,s,STEAM,STEAM,36,2000,1000,12.5,1500,65,20,95-105,Prim.,NC,18000,18000,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,Lost Hills,Kem,1975,170,450,135,Tulare,us,STEAM,STEAM,40,2000,200,13,2750,60,20,82,Prim.,HF,6400,6400,Succ.,Yes,FW
+USA,Calif.,Aera Energy,McKittrick,Kem,1988,160,100,45,Tulare,s,STEAM,STEAM,36,1500,600,11,32000,60,20,83,Prim.,NC,1300,1300,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,Midway-Sunset,Kem,1967,1600,1440,131,Potter,s,STEAM,STEAM,30,1250,1000,12,,67.5,15,91-110,Prim.,NC,8971,8971,Succ.,Yes,FW
+USA,Calif.,Aera Energy,Midway-Sunset,Kem,1970,1230,1269,240,Monarch,s,STEAM,STEAM,29,2350,1150,13,32500,62.5,15,85-100,Prim.,NC,12462,12462,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,Midway-Sunset,Kem,1984,15,4,,Sub Lakeview,s,STEAM,STEAM,30,4500,1300,13,4000,60,15,90,Prim.,NC,25,25,Succ.,Yes,LW
+USA,Calif.,Aera Energy,Midway-Sunset,Kem,1969,50,73,16,Metson,s,STEAM,STEAM,30,3000,1100,11,10000,75,15,130,Prim.,NC,1039,1039,Succ.,Yes,LW
+USA,Calif.,Aera Energy ,Midway-Sunset,Kem,1988,73,95,32,Marvic,s,STEAM,STEAM,30,300,1100,13,3500,65,15,104,SS,HF,1454,1454,Succ.,Yes,LW
+USA,Calif.,Aera Energy,Midway-Sunset,Kem,1997,48,23,0,Diatomite,s,STEAM,STEAM,65,5,550,12.5,1000,75,,90,Prim.,NC,161,161,Succ.,Yes,LW
+USA,Calif.,Aera Energy ,Midway-Sunset,Kem,1980,427,427,24,Tulare,s,STEAM,STEAM,31,3150,1000,11.4,6000,60,16,90,Prim.,HF,3999,3999,Succ.,Yes,FW
+USA,Calif.,Aera Energy,San Ardo,Monterey,1968,125,20,,Aurignac,s,STEAM,STEAM,34.5,2000,2300,12,1000,55,27,130,SS,NC,250,250,Succ.,Yes,FW
+USA,Calif.,Aera Energy ,San Ardo,Monterey,1980,580,222,48,Lombardi,s,STEAM,STEAM,32.5,2260,2100,11,3000,55,27,125,SS,HF,9500,9500,Succ.,Yes,FW
+USA,Calif.,Beny,Midway-Sunset,Kem,2002,15,35,20,Tulare,s,STEAM,STEAM,30,3500,800,10,10000,60,23,90,CS,JS,1000,750,Succ.,Yes,RW
+USA,Calif.,Beny,North Midway-Sunset,Kem,1965,160,125,,Potter,s,STEAM,STEAM,30,3000,1300,14,4000,70,15,85,Prim.,NC,550,400,Succ.,Yes,FW
+USA,Calif.,Beny,South Midway-Sunset,Kem,1964,600,1200,,Monarch,s,STEAM,STEAM,30,2000,1000,13,8000,70,15,80,Prim.,HF,"10,000",7000,Succ.,Yes,FW
+USA,Calif.,Beny,Placerita,Los Angeles,1987,120,50,58,Lower Kraft,s,STEAM,STEAM,27,1500,1800,13,10000,60,,90,Prim/Cyclic,HF,"3,000","2,700",Succ.,Yes,"FW, RW, Exp. L"
+USA,Calif.,Beny,Midway-Sunset South,Kem,2005,40,50,4,Main 10-10,s,STEAM,STEAM,30,1500,1700,13,8000,60,,80,Prim/Cyclic,JS,400,300,TETT,,RW
+USA,Calif.,Beny,Paso Creek,Kem,2005,200,77,3,Etchegoin/Chanac,s,STEAM,STEAM,33,4000,1200,13,2800,50,,110,Cyclic,JS,700,650,Prom.,,FW
+USA,Calif.,Beny,North Midway-Sunset,Kem,2006,100,87,,Diatomite,Tripol.,STEAM,STEAM,65,1,800,14,,65,,,SD,JS,"1,530","1,530",Prom,TETT,"Exp. L, LW"
+USA,Calif.,Beny,Midway-Sunset South,Kem,2007,10,4,,Diatomite,Tripol.,STEAM,STEAM,65,1,1100,14,4000,60,,90,,JS,,25,TETT,TETT,"Exp. L, LW"
+USA,Calif.,Beny,Midway-Sunset South,Kem,2007,60,10,1,Monarch,s,STEAM,STEAM,30,800,1400,14,4000,65,,90,C,JS,,200,TETT,TETT,"Exp. L, LW"
+USA,Tex.,Carrizo,Camp Hill,Anderson,2009,125,80,25,Carrizo,s,STEAM,STEAM,37,3500,475,19,1200,65,29,75,Prim.,JS,60,lOC,TETT,TETT,LW
+USA,Calif.,Chevron,Cymric,Kem,1980,380,510,,Antelope,,STEAM,STEAM,58,5,1500,13,,40,,110,Prim.,NC,21200,21200,Succ.,Yes,LW
+USA,Calif.,Chevron,Cymric,Kem,1975,552,360,80,Tulare,s,STEAM,STEAM,34.8,2700,1200,12,5200,53,18,100,SS,HF,10200,10200,Succ.,Yes,LW
+USA,Calif.,Chevron,Midway,Kem,1964,1214,2039,225,Potter,us,STEAM,STEAM,30,3000,1500,12,4000,60,15,100,C,HF,21000,21000,Succ.,Yes,FW
+USA,Calif.,Chevron,Midway,Kem,1982,80,123,3,Tulare,us,STEAM,STEAM,31,1300,1500,11,5000,50,43,100,Prim.,HF,500,500,Succ.,Yes,Exp. L
+USA,Calif.,Chevron,Midway,Kem,1970,1200,711,69,Spellacy,us,STEAM,STEAM,30,2250,1500,12,5000,60,20,100,Prim.,HF,9400,9401,Succ.,Yes,Exp. L
+USA,Calif.,Chevron,West Coalinga,Fresno,1990,1291,541,132,Temblor,s,STEAM,STEAM,34,1510,1640,14,3720,44,14,100,SS,HF,6558,6558,Succ.,Yes,RW
+USA,Calif.,Chevron,Kern River,Kem,1968,9660,8692,1219,Kern River,s,STEAM,STEAM,32,2000,1000,13,4000,50,15,90,Prim.,HF,86000,86000,Succ.,Yes,FW
+USA,Calif.,Chevron,San Ardo,Monterey,1987,125,92,13,Lombardi,s,STEAM,STEAM,34,6700,1900,12,1200,46,15,135,C,HF,2750,2750,Succ.,Yes,P (Exp. L)
+USA,Wyo.,Derek Oil & Gas Corp.,LAK Ranch,Newcastle,2004,20,1,3,Newcastle,s,STEAM,STEAM,22,100,1000,16,20,85,60,54,NA,JS,40,40,TETT,TETT,P
+USA,Wyo.,Derek Oil & Gas Corp.,Newcastle,Weston,2007,30,8,4,Newcastle Sandstone,s,STEAM,STEAM,22,100,800,20,20,85,60,54,SD,C,30,30,Prom.,,P
+USA,Calif.,ExxonMobil,South Belridge,Kem,1987,90,48,24,Tulare,s,STEAM,STEAM,38,2000,1250,13,450,,,95,,HF,1000,800,Succ.,Yes,FW
+USA,Mo.,MegaWest Energy Corp.,Deerfield,Verron,2009,40,100,38,Warner,s,STEAM,STEAM,22,500,250,17.6,2900,60,20,55,,JS,180,180,TETT,Breakeven,Exp. L.
+USA,Calif.,Naftex,Edison 27-RT,Kern,1977,30,65,29,Chanac,s,STEAM,STEAM,30,2800,1000,14,2000,50,15,90,Prim.,NC,550,550,Succ.,Yes,FW
+USA,Calif.,Occidental,Kern Front,Kem,1981,3380,595,120,Etchegoin,s,STEAM,STEAM,30,2000,1800,14.8,1525,45,15,95,Prim,HF,"7,700",6000,Succ.,Yes,FW
+USA,Calif.,Occidental,North Antelope Hills,Kem,1980,300,77,13,Packwood,s,STEAM,STEAM,32,1500,1200,14,1400,50,10,80,Prim,HF,"1,150",1000,Succ.,Yes,FW
+USA,Calif.,Occidental,Lost Hills,Kem,2008,324,231,67,Tulare,us,STEAM,STEAM,40.3,3048,175,12.7,2200,55,15,75,C,JS,"3,270","3,000",Prom,Yes,Exp. L.
+USA,Calif.,Occidental,Lost Hills,Kem,2011,30,42,10,Etchegoin,us,STEAM,STEAM,39.2,955,300,13.9,1000,48,15,80,C,JS,330,330,Prom,Yes,Exp. L.
+USA,Calif.,Seneca Resources,Midway-Sunset South,Kem,2001,90,45,40,Antelope,s,STEAM,STEAM,34,850,1150,15.5,345,80,60,100,Prim.,NC,360,345,Succ.,Yes,FW
+USA,Calif.,Seneca Resources,Midway-Sunset South,Kem,2002,94,17,17,Antelope,s,STEAM,STEAM,34,1250,450,11,20000,85,60,80,NA,JS,200,200,TETT,TETT,P (Exp. L)
+USA,Calif.,Seneca Resources,Midway-Sunset,Kem,1968,320,800,,Potter Sand,us,STEAM,STEAM,37,5500,1400,12,3000,65,20,100,Prim.,HF,6000,4.500,Succ.,,RW
+USA,Calif.,Stockdale,Kern Front,Kem,1993,160,54,6,Etchegoin,s,STEAM,STEAM,30,1000,2000,13,,70,,80,SS,JS,700,550,Succ.,Yes,Exp. L.
+USA,Calif.,Tidelands,Wilmington,Los Angeles,1996,44,3,2,S Tar,us,STEAM,STEAM,31,1000,2300,13,300,58,28,125,WF,JS,350,350,Succ.,,P
+USA,Calif.,Chevron,San Ardo,Monterey,1987,700,7,3,Aurignac,s,HOT WATER,HOT WATER,32,2000,2100,12,900,15,10,135,SF,NC,253,226,Succ.,Yes,LW
+USA,Calif.,Chevron,West Coalinga,Fresno,1973,780,194,180,Temblor,s,HOT WATER,HOT WATER,34,1500,1350,14,3350,48,15,100,SS,,"1,450","1,450",Succ.,Yes,RW
+USA,La.,Bayou State,Bellevue,Bossier,1970,200,115,15,Nacatoch,s,COMBUSTION,COMBUSTION,32,650,400,19,660,94,49,,Prim.,HF,240,240,Succ.,Yes,FW
+USA,ND,Continental Resources,Medicine Pole Hills,Bowman,1985,8960,13,9,Red river B and C,Dalo.,COMBUSTION,COMBUSTION,17,15,9500,38,,52,30,230,Prim.,C,394,394,Succ.,Yes,FW
+USA,ND,Continental Resources,West Medicine Pole,Bowman,2001,14335,22,6,Red river B and C,Dalo.,COMBUSTION,COMBUSTION,17,10,9500,33,,50,33,215,Prim.,C,981,981,Succ.,Yes,FW
+USA,ND,Continental Resources,South Medicine Pole,Bowman,2003,11500,11,7,Red river B ,Dalo.,COMBUSTION,COMBUSTION,17,10,9200,33,,50,30,220,Prim.,C,405,405,Succ.,Yes,FW
+USA,ND,Continental Resources,Cedar Hills North Unit,Bowman,2002,51200,117,121,Red River,Dalo.,COMBUSTION,COMBUSTION,18,10,9000,33,,55,26,215,Prim.,C,"12,733","12,733",Succ.,Yes,FW
+USA,Mont.,Continental Resources,West Cedar Hills unit,Fallon,2003,7800,10,5,Red river B ,Dalo.,COMBUSTION,COMBUSTION,17,10,9000,33,,55,26,215,Prim.,C,581,581,Succ.,Yes,FW
+USA,SD,Continental Resources,Buffalo,Harding,1979,7680,13,7,Red river B ,Dalo.,COMBUSTION,COMBUSTION,20,10,8450,31,,55,20,215,Prim.,C,465,465,Succ.,Yes,FW
+USA,SD,Continental Resources,West Buffalo,Harding,1987,4640,11,6,Red river B ,Dalo.,COMBUSTION,COMBUSTION,20,10,8450,32,,55,20,215,Prim.,C,357,357,Succ.,Yes,FW
+USA,SD,Continental Resources,South Buffalo,Harding,1983,20800,35,13,Red river B ,Dalo.,COMBUSTION,COMBUSTION,20,10,8450,31,,55,20,215,Prim.,C,805,806,Succ.,Yes,FW
+USA,Monl,Encore Acquisition,Pennel Phase 1,Fallon,2002,2924,22,8,Red river A,Dalo.,COMBUSTION,COMBUSTION,17,10,8800,33,1.44,75,39,200,WF,JS,429,160,Succ.,Yes,Exp. L
+USA,Monl,Encore Acquisition,Pennel Phase 2,Fallon,2002,10010,56,24,Red river A,Dalo.,COMBUSTION,COMBUSTION,17,10,8800,33,1.44,85,46,201,WF,JS,"1,550",100,Prom.,Yes,Exp. L
+USA,Monl,Encore Acquisition,Little Beaver,Fallon,2002,10400,57,29,Red river A,Dalo.,COMBUSTION,COMBUSTION,17,10,8300,33,1.44,83,60,202,WF,JS,"1,650",750,Prom.,Yes,Exp. L
+USA,Wyo.,Anadarko,Salt Creek Sth Unit,Natrona,2012,570,42,26,"Frontier, Wall",SS,CO2 MISCIBLE,CO2,17,25,1750,39,0.6,32,24,105,Prim.,JS,100,11,TETT,NA,RW
+USA,Wyo.,Anadarko,Salt Creek Sth Unit,Natrona,2012,1325,48,32,"Frontier, Wall",SS,CO2 MISCIBLE,CO2,18,30,2200,39,0.6,32,24,112,Prim.,JS,150,11,TETT,NA,RW
+USA,Wyo.,Anadarko,Salt Creek ,Natrona,2004,6000,321,279,Wall Creek 2,s,CO2 MISCIBLE,CO2,18,75,1900,37,0.6,39,24,105,WF,H,9.500,9.500,Succ.,Yes,"RW, Exp L"
+USA,Wyo.,Anadarko,Salt Creek ,Natrona,2005,5,4,1,Wall Creek 1,s,CO2 MISCIBLE,CO2,17,30,1150,35,0.6,32,24,99,WF,C,,,Prom.,,p
+USA,Wyo.,Anadarko,Salt Creek ,Natrona,2010,600,40,27,Wall Creek 1,SS,CO2 MISCIBLE,CO2,17,30,1600,35,0.6,32,24,99,Prim.lWF,JS,"1,200","1,200",Succ.,,RW
+USA,Wyo.,Anadarko,Sussex,Johnson,2004,25,4,1,Tensleep,s,CO2 MISCIBLE,CO2,10,16,9000,30,2.0,,,200,WF,C,,,Prom.,,p
+USA,Tex.,Apache,Adair,Gaines,1997,5338,90,61,San Andres,Dolo.,CO2 MISCIBLE,CO2,14.1,4,4789,33.5,,,,104,WF,HF,"2,350",,Succ.,,Exp.
+USA,Tex.,Apache,Adair,Gaines,2004,2550,11,11,Wolfcamp,Dolo.,CO2 MISCIBLE,CO2,12.4,28,8500,42,,,,126,WF,JS,420,,Prom.,,TETT
+USA,Tex.,Apache,Slaughter,"Hockley, ",1986,569,43,21,San Andres,Dolo.,CO2 MISCIBLE,CO2,12.5,6,4900,32,1,,,110,WF,HF,600,580,Succ.,Yes,LW
+USA,Tex.,Apache,Slaughter,"Hockley,",1989,8559,259,164,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,3,5000,32,2,45,8,107,WF,JS,"5,800","4,000",Succ.,Yes,LW
+USA,Okla.,Chaparral Energy,Sho-Vel-Tum,Stephens,1982,1100,60,40,Sims,s,CO2 MISCIBLE,CO2,16,70,6200,30,3,59,42,115,WF,HF,1.000,1.000,Succ.,Yes,FW
+USA,Okla.,Chaparral Energy,Camrick,Beaver,2001,2320,38,32,Morrow,s,CO2 MISCIBLE,CO2,15,63,7260,38.5,2,52,,152,WF,JS,"1,510","1,410",Succ.,Yes,"Phase 1,2,3"
+USA,Tex.,Chaparral Energy,North Perryton,Ochiltree,2007,2.5,12,6,Upper Morrow,s,CO2 MISCIBLE,CO2,15.2,63,7300,38,3,52,,152,WF,JS,380,350,TETT,TETT,Phase 1
+USA,Tex.,Chaparral Energy,Albert Spicer,Ochiltree,2009,577,5,2,Upper Morrow,s,CO2 MISCIBLE,CO2,21,50,8060,39,4,51,,177,WF,JS,6,,TETT,TETT,
+USA,Tex.,Chaparral Energy,Booker Trosper,Ochiltree,2009,1325,3,3,Upper Morrow,s,CO2 MISCIBLE,CO2,20,50,8060,39,5,56,,177,WF,JS,6,,TETT,TETT,
+USA,Tex.,Chaparral Energy,Gramstorff Unit,Ochiltree,2009,829,5,3,Upper Morrow,s,CO2 MISCIBLE,CO2,21,109,8060,39,6,57,,177,WF,JS,19,,TETT,TETT,
+USA,Colo.,Chevron ,Rangely Weber San,Rio,1986,18000,378,262,Weber SS,s,CO2 MISCIBLE,CO2,12,10,6000,35,,38,29,160,WF,JS,"15,300","11,600",Succ.,Yes,FW
+USA,Tex.,Chevron,Mabee,Andrews-Martin,1992,3600,220,85,San Andres,S,CO2 MISCIBLE,CO2,9,4,4700,32,,36,10,104,WF,NC,"3,100",2.000,Succ.,Yes,Exp. L
+USA,Tex.,Chevron,Slaughter Sundown,Hockley,1994,5500,155,144,San Andres,Dolo.,CO2 MISCIBLE,CO2,11,6,4950,33,,41,25,105,WF,HF,"5,950","4,747",Succ.,Yes,LW
+USA,NM,Chevron,Vacuum,Lea,1997,1084,48,24,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,22,4550,38,,36,15,101,WF,HF,4.500,"2,950",Succ.,Yes,LW
+USA,Tex.,Chevron,Dollarhide (Devonian),Andrews,5185,6183,83,66,Devonian,Dolo.,CO2 MISCIBLE,CO2,13.5,9,8000,40,0,35,22,122,PrimJWF,HF,"2,420","1,970",Succ.,Yes,FW
+USA,Tex.,Chevron,Dollarhide (Clearfork),Andrews,1985,160,21,4,Clearfork,Dolo.,CO2 MISCIBLE,CO2,11.5,4,6500,40,1,30,10,113,Prim.lWF,JS,230,124,Prom.,Yes,Exp. L
+USA,Tex.,Chevron,Reinecke,Borden,1998,700,32,8,Cisco Canyon Reef,LS/Dalo.,CO2 MISCIBLE,CO2,10.4,170,6700,43.5,0.4,35,10,139,WF,JS,977,830,Succ.,Yes,Exp. L
+USA,Tex.,ConocoPhillips,South Cowden,Lea,1981,4900,43,22,San Andres,Dolo.,CO2 MISCIBLE,CO2,11.7,11,4500,38,1,70,50,101,Prim.,JS,450,250,Succ.,Yes,FW
+USA,NM,ConocoPhillips,Vacuum,Lea,1981,4900,192,103,San Andres,Dolo.,CO2 MISCIBLE,CO2,11.7,11,4500,38,1,70,50,101,Prim.,HF,6200,"5,200",Succ.,Yes,FW
+USA,Mich.,Core Energy,Charlton6,Otsego,2006,60,1,1,Silurian-Al,LS/Dolo.,CO2 MISCIBLE,CO2,,50,5450,43,0.8,54,44,103,Prim.,JS,10,10,Succ.,,Exp. L
+USA,Mich.,Core Energy,Charlton 30-31,Otsego,2005,285,2,1,Silurian-Al/Niagaran,LS/Dolo.,CO2 MISCIBLE,CO2,,50,5450,42,0.8,47,40,103,Prim.,JS,75,75,Succ.,,Exp. L
+USA,Mich.,Core Energy,Dover 33,Otsego,1996,85,2,1,Silurian-Al,LS/Dolo.,CO2 MISCIBLE,CO2,5,50,5500,43,0.8,51,40,100,Prim.,C,,,Succ.,,FW
+USA,Mich.,Core Energy,Dover 35,Otsego,2004,70,3,2,Silurian-Al/Niagaran,LS/Dolo.,CO2 MISCIBLE,CO2,5,50,5500,41,0.8,51,35,101,Prim.,JS,210,210,Succ.,,FW
+USA,Mich.,Core Energy,Dover 36,Otsego,1997,190,1,2,Silurian-Al/Niagaran,LS/Dolo.,CO2 MISCIBLE,CO2,3,50,5600,42,0.8,52,42,102,Prim.,HF,70,70,Succ.,,FW
+USA,Mich.,Core Energy,Chester 2,Otsego,2009,75,1,1,Silurian-Al/Niagaran,LS/Dolo.,CO2 MISCIBLE,CO2,5,50,5600,42,0.8,52,37,102,Prim.,JS,,,TETT,,
+USA,Miss.,Denbury Resources,Lazy Creek,Pike,2001,840,8,10,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,23.4,65,10400,39,,27.4,,242,Prim.,NC,300,300,Succ.,,FW
+USA,Monl,Denbury Resources,Bell Creek,Powder River,2013,2800,27,28,Muddy,s,CO2 MISCIBLE,CO2,24,700,4500,37,1.2,29,,108,Prim./WF,,230,,TETT,,Exp. L
+USA,Miss.,Denbury Resources,Little Creek,"Lincoln, Pike",1985,6200,38,36,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,23,90,10750,40,,44,,250,WF,NC,"1,100","1,100",Succ.,,FW
+USA,Miss.,Denbury Resources,West Mallalieu,Lincoln,1986,8240,42,45,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,26,75,10550,40,,44,,248,Prim.,NC,"2,700","2,700",Succ.,,FW
+USA,Miss.,Denbury Resources,McComb,Pike,2003,12600,25,10,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,26,90,10900,40,,52,,250,Prim.,HF,1700,1701,Prom.,,Exp. L
+USA,Miss.,Denbury Resources,Smithdale,Amite,2005,4100,12,5,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,23,90,11000,41,,50,,250,Prim.,HF,500,500,Succ.,,Exp. L
+USA,Miss.,Denbury Resources,Brookhaven,Lincoln,2005,10800,40,37,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,25.5,60,10300,40,,47,,250,PrimJGI/WF,HF,"3,700","3,700",Succ.,,Exp. L
+USA,Miss.,Denbury Resources,East Mallalieu,Lincoln,2003,880,13,12,Lower Tuscaloosa,s,CO2 MISCIBLE,CO2,26,75,10550,40,,52,,248,Prim./WF,NC,500,500,Succ.,,FW
+USA,Miss.,Denbury Resources,Martinville,Simpson,2006,280,3,2,Mooringsport,s,CO2 MISCIBLE,CO2,18,40,11550,38,,55,,244,WF,NC,250,250,Succ.,,FW
+USA,Miss.,Denbury Resources,Martinville,Simpson,2006,200,4,3,Rodessa,s,CO2 MISCIBLE,CO2,12,200,11600,42,,64,,250,WF,NC,200,200,Succ.,,FW
+USA,Miss.,Denbury Resources,Sosa,Jones,2006,1800,12,9,Rodessa 11180,s,CO2 MISCIBLE,CO2,17,171,11500,45,,55,,228,WF,HF,2500,2500,Succ.,,Exp. L
+USA,Miss.,Denbury Resources,Sosa,Jones,2006,2600,28,16,Bailey,s,CO2 MISCIBLE,CO2,17,273,11950,43,,50,,234,WF,HF,200,200,Succ.,,Exp. L
+USA,Miss.,Denbury Resources,Cranfield,Adams,2008,7754,26,27,Tuscaloosa,s,CO2 MISCIBLE,CO2,23,100,10300,39,,32,,260,PrimJGI,HF,1500,1500,Succ.,,Exp. L
+USA,La.,Denbury Resources,Lockhart Crossing,Livingston,2007,3500,19,12,Wilcox,s,CO2 MISCIBLE,CO2,20,30,10100,40,,32,,212,Prim./WF,HF,1500,1500,Succ.,,Exp. L
+USA,La.,Denbury Resources,Delhi,"Richland,",2009,14010,61,38,Paluxy/Tuscaloosa,s,CO2 MISCIBLE,CO2,29.5,2000,3500,42,0.77,35,,135,Prim./WF,HF,"5,700","5,700",Succ.,,FW
+USA,Tex.,Denbury Resources,Oyster Bayou,Chambers,2010,3900,29,11,Frio,s,CO2 MISCIBLE,CO2,28,2000,8500,39,,26.7,,190,Prim./WF,NC,0,0,Prom.,,FW
+USA,Wyo.,Devon,Beaver,Fremont,2008,980,17,17,Madison,Dolo.,CO2 MISCIBLE,CO2,10,10,11100,39.5,0.64,60,50,232,Prim./WF,JS,"2,700","2,425",Prom.,Prom.,FW
+USA,Tex.,Energen Resources,East Penwell,Ector,1996,1020,49,30,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,4,4000,34,,55,40,86,WF,HF,"1,626",827,Succ.,Yes,RW
+USA,Utah,ExxonMobil,Greater Aneth Area,San Juan,1985,13440,143,120,Ismay Desert Creek,LS,CO2 MISCIBLE,CO2,14,5,5600,41,,50,,125,Prim.,JS,6000,3000,Succ.,Yes,LW
+USA,Tex.,ExxonMobil,Means,Andrews,1983,8500,484,284,San Andres,Dolo.,CO2 MISCIBLE,CO2,9,20,4300,29,,,,97,WF,HF,"10,000","8,700",Succ.,Yes,FW
+USA,Tex.,Fasken,Abell,Crane,2009,809,21,19,Devonian,Tripol.,CO2 MISCIBLE,CO2,21.9,3,5300,42,,45,,105,WF,JS,180,85,TETT,TETT,Exp. L
+USA,Tex.,Fasken,Hanford,Gaines,1986,1120,23,26,San Andres,Dolo.,CO2 MISCIBLE,CO2,10.5,4,5500,32,,60.7,18.7,104,Prim.,NC,400,400,Succ.,,LW
+USA,Tex.,Fasken,Hanford East,Gaines,1997,340,7,4,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,4,5500,32,,45,18.7,104,WF,HF,60,30,Succ.,,LW
+USA,Tex.,Fasken,Hanford,Gaines,2009,113,8,4,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,5,5700,32,1,50,,105,Prim.,JS,280,,TETT,,Exp. L
+USA,Tex.,Fasken,River Bend (Devonian),Crane,2009,400,9,10,Devonian,Tripol.,CO2 MISCIBLE,CO2,23.7,4.5,5500,42,0.51,55,46,105,WF,JS,290,20,TETT,TETT,Exp. L
+USA,Tex.,Great Western Drilling,Twofreds,"Loving, ",1974,"4,392",32,9,"Delawar, Ramsey",s,CO2 MISCIBLE,CO2,19.5,32,4900,36,2,50,,105,WF,NC,170,170,Succ.,Yes,FW
+USA,Tex.,George R. Brown,Garza,Reeves,2009,"1,778",,,San Andres,,CO2 MISCIBLE,CO2,,,3000,,,,,,,,,,,,
+USA,Tex.,Hess,Seminole Unit-Main Pay Zone,Gaines,1983,15699,370,110,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,62.15,5300,35,1,84,,104,WF,HF,14500,14000,Succ.,Yes,FW
+USA,Tex.,Hess,Seminole Unit-ROZ Phase 1,Gaines,1996,500,15,10,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,62.15,5500,35,1,30,,104,None,HF,1200,1200,Prom.,Yes,p
+USA,Tex.,Hess,Seminole Unit-ROZ Phase 2,Gaines,2004,480,16,9,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,62.15,5500,35,1,30,,104,None,HF,1800,1800,Prom.,Yes,p
+USA,Tex.,Hess,Seminole Unit-ROZ stage 1,Gaines,2007,2320,44,29,San  Andres,Dolo.,CO2 MISCIBLE,CO2,12,62.15,5500,35,1,30,,104,None,HF,3500,3500,Prom.,Yes,Exp. L
+USA,Tex.,Kinder Morgan,SACROC,Scurry,1972,49900,39J,503,Canyon,LS,CO2 MISCIBLE,CO2,4,19,6700,39,1,78,39,135,Prim./WF,HF,29580,26530,Succ.,Yes,FW
+USA,Wyo.,Merit Energy,Lost Soldier,Sweetwater,1989,1345,33,39,Tensleep,s,CO2 MISCIBLE,CO2,9.9,31,5000,35,1,,,178,WF,NC,4672,4545,Succ.,Yes,FW
+USA,Wyo.,Merit Energy,Lost Soldier,Sweetwater,1989,790,16,17,Darwin-Madison,S/LS-Dolo.,CO2 MISCIBLE,CO2,10.3,4,5400,35,1,,,181,WF,NC,2232,1661,Succ.,Yes,FW
+USA,Wyo.,Merit Energy,Lost Soldier,Sweetwater,1996,120,11,7,Cambrian,s,CO2 MISCIBLE,CO2,7,10,7000,35,,,,,WF,JS,1740,1015,Succ.,Yes,FW
+USA,Wyo.,Merit Energy,Wertz,"Cartxm,",1986,1400,12,22,Tensleep,s,CO2 MISCIBLE,CO2,10,20,6000,35,1,,,163,WF,NC,3912,2986,Succ.,Yes,FW
+USA,Wyo.,Merit Energy,Wertz,"Cartxm,",2000,810,12,18,Darwin-Madison,S/LS-Dolo.,CO2 MISCIBLE,CO2,10,5,6400,35,1,,,170,WF,NC,1685,1033,Succ.,Yes,FW
+USA,Okla.,Merit Energy,Northeast Purdy,Garvin,1982,3400,85,49,Springer,s,CO2 MISCIBLE,CO2,13,44,9400,38,1,,,148,WF,HF,1800,1800,Succ.,,FW
+USA,Okla.,Merit Energy,Bradley Unit,Garvir\fGardy,1997,700,29,12,Springer,s,CO2 MISCIBLE,CO2,14,50,9400,38,1,,,150,WF,JS,800,600,Prom.,,"FW, Exp. L"
+USA,Tex.,Orla Petco,East Ford,Reeves,1995,1953,8,4,"Delaware,",s,CO2 MISCIBLE,CO2,23,30,2680,40,1,49,36,82,Prim.,HF,128,128,Disc.,No,FW
+USA,Tex.,Occidental,Slaughter,Hockley,2000,246,22,13,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,5,4950,31,1.8,40,25,105,WF,HF,225,183,Succ.,Yes,FW
+USA,Tex.,Occidental,Anton Irish,Hale,1997,4437,157,93,Clearfork,Dolo.,CO2 MISCIBLE,CO2,7,4,5800,30,3,50,30,109,Prim./WF,HF,5960,5100,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,Cedar lake,Gaines,1994,2870,230,92,San Andres,Dolo.,CO2 MISCIBLE,CO2,14,5,4800,32,2.3,50,15,102,WF,HF,4100,3000,Succ.,Yes,LW
+USA,Tex.,Occidental,Slaughter,Hockley,1984,6412,175,119,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,2,4900,31,1.8,48,25,105,WF,HF,2750,1930,Succ.,Yes,FW
+USA,Tex.,Occidental,Cogdell,Scurry/Kent,2001,2684,107,89,Canyon Reef,LS,CO2 MISCIBLE,CO2,13,6,6800,40,0.7,46,15,130,WF,HF,6200,6100,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,El Mar,Loving,1994,7100,28,29,Delaware,s,CO2 MISCIBLE,CO2,22,24,4500,41,1.1,40,,97,Prim./WF,NC,308,301,Disc.,Yes,Exp. UL
+USA,Tex.,Occidental,Slaughter,Hockley,1984,1600,60,52,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,4,4950,31,1.8,38,23,105,WF,NC,90C,650,Succ.,Yes,FW
+USA,Tex.,Occidental,GMK South,Gaines,1982,1143,29,26,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,3,5400,30,3,55,28,101,WF,HF,465,210,Succ.,Yes,LW
+USA,Tex.,Occidental,Slaughter,Cochran,2005,1235,53,37,San Andres,Dolo.,CO2 MISCIBLE,CO2,11,4,5040,34,1.5,47,36,105,WF,HF,1000,650,Succ.,Yes,Exp. UL
+USA,Tex.,Occidental,Levelland,Hockley,2004,1179,148,110,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,2,4900,34,1.4,45,30,108,WF,JS,2886,1523,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,Mid Cross-Devonian,"Crane,",1997,1326,11,5,Devonian,Tripol.,CO2 MISCIBLE,CO2,18,2,5400,42,0.4,60,20,104,"Prim.,GI",HF,373,370,Disc.,Yes,FW
+USA,Tex.,Occidental,N. Cross-Devonian,Crane,1972,1155,26,16,Devonian,Tripol.,CO2 MISCIBLE,CO2,22,5,5300,44,0.4,49,21,104,"Prim.,GI",NC,1239,1235,Succ.,Yes,FW
+USA,Tex.,Occidental,North Cowden,Ector,34731,465,30,15,Grayburg,Dolo.,CO2 MISCIBLE,CO2,10,40944,4200,34,1.5,40,25,91,WF,Term.,257,64,Disc.,No,Exp. UL
+USA,Tex.,Occidental,North Dollarhide,Andrews,1995,1280,25,20,Devonian,Tripol.,CO2 MISCIBLE,CO2,22,5,7500,40,0.5,38,23,123,WF,HF,1450,1450,Succ.,Yes,FW
+USA,NM,Occidental,North Hobbs,Lea,2001,3100,122,77,San Andres,Dolo.,CO2 MISCIBLE,CO2,15,15,4200,35,0.9,35,24,102,WF,HF,6440,4725,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,S. Cross-Devonian,Crockett,1988,2000,71,38,Devonian,Tripol.,CO2 MISCIBLE,CO2,21,4,5200,43,0.6,43,24,104,"Prim.,GI",HF,5138,5053,Succ.,Yes,FW
+USA,Tex.,Occidental,Salt Creek,Kent,1993,12000,150,135,Canyon,LS,CO2 MISCIBLE,CO2,20,12,6300,39,1,89,15,125,WF,HF,7700,7000,Succ.,Yes,LW
+USA,Tex.,Occidental,Sharon Ridge,Scnmy,1999,1400,25,26,Canyon Reef,LS,CO2 MISCIBLE,CO2,10,70,6600,43,0.4,39,26,125,WF,HF,600,450,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,Slaughter (H.T.),Cochran,2001,1240,39,23,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,4,5000,31,1.6,47,36,108,WF,HF,950,700,Succ.,Yes,LW
+USA,Tex.,Occidental,Slaughter,Hockley,1984,5700,190,167,San Andres,Dolo/LS,CO2 MISCIBLE,CO2,12,,4950,31,1.8,40,23,105,WF,HF,3500,3450,Succ.,Yes,FW
+USA,Tex.,Occidental,Slaughter,"Cochran,",2008,1048,38,30,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,2,4950,32,2,47,31,105,WF,JS,1085,180,Prom.,Yes,Exp. L
+USA,Tex.,Occidental,Slaughter,Hockley,2006,1561,71,48,San Andres,Dolo.,CO2 MISCIBLE,CO2,9,4,4900,32,2,42,29,105,WF,JS,1740,450,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,Slaughter,Cochran,2005,177,6,3,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,4,5000,31,1.6,47,36,108,WF,HF,180,80,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,South Wasson ,Yoakum,1984,4720,104,56,Clearfork,Dolo.,CO2 MISCIBLE,CO2,7,15,8200,35,1.1,,,120,WF,Term.,1400,0,Disc.,No,Exp. UL
+USA,Tex.,Occidental,South Welch,Dawson,1993,1160,87,73,San Andres,Dolo.,CO2 MISCIBLE,CO2,11,4,4900,34,2.3,50,15,98,WF,HF,720,670,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,T-star,Hockley,1999,1700,52,29,Abo,Dolo.,CO2 MISCIBLE,CO2,7,2,7850,28,1.9,75,45,134,Prim./WF,HF,1950,1000,Succ.,Yes,LW
+USA,Tex.,Occidental,Wasson Bennet Ranch,Yoakum,1995,1780,194,103,San Andres,Dolo.,CO2 MISCIBLE,CO2,11,8,5250,34,1.2,55,37,105,WF,HF,5000,4150,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,Wasson Denver ,"Yoakum,",1983,27848,1026,590,San Andres,Dolo.,CO2 MISCIBLE,CO2,12,8,5200,33,1.2,51,31,105,WF,HF,27010,24660,Succ.,Yes,FW
+USA,Tex.,Occidental,Wasson ODC,Yoakum,1984,7800,323,294,San Andres,Dolo/LS,CO2 MISCIBLE,CO2,10,5,5100,34,1.3,49,34,110,WF,HF,8454,7930,Succ.,Yes,FW
+USA,Tex.,Occidental,Wasson Willard,Yoakum,1986,8500,272,212,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,1.5,5100,32,2,56,41,105,WF,HF,5464,4711,Succ.,Yes,Exp. L
+USA,Tex.,Occidental,West,Gaines,1997,240,0,0,San Andres,Dolo.,CO2 MISCIBLE,CO2,10,3,4900,34,2.3,50,15,98,WF,Term.,0,0,Disc.,No,p
+USA,Utah,Resolut Natural Resources,Greater Aneth,San Juan,1998,1200,12,10,Desert Creek,LS,CO2 MISCIBLE,CO2,12,18.3,5700,42,1.5,40,28,129,WF,JS,1200,400,Prom.,Yes,p
+USA,Tex.,Stanberry Oil,Hansford Marmaton,Hansford,1980,2010,5,6,Marmaton,s,CO2 MISCIBLE,CO2,18.1,48,6500,44,,43,,142,Prim.,NC,102,102,Succ.,Yes,FW
+USA,Tex.,Whiting Petroleum,North Ward,Ward/Winkler,2007,16300,816,816,Yates,SS,CO2 MISCIBLE,CO2,16,37,2600,36,1.6,26.5,21,83,Prim./WF,JS,7800,4700,Prom.,Yes,FW
+USA,Okla.,Whiting Petroleum,Postle,Texas,1995,11000,92,82,Morrow,SS,CO2 MISCIBLE,CO2,16,50,6200,40,1,37,25,145,WF,HF,4500,4500,Succ.,,Exp. L
+USA,Okla.,Whiting Petroleum,Postle,Texas,2008,21000,230,163,Morrow,SS,CO2 MISCIBLE,CO2,16,50,6200,40,1,37,25,145,WF,NC,9100,9100,Succ.,Yes,Exp. L
+USA,Okla.,Whiting Petroleum,Postle Expansion,Texas,2008,7000,72,62,Morrow,SS,CO2 MISCIBLE,CO2,16,35,6200,40,1,37,25,145,WF,,1700,1700,Early succ.,,Exp. L
+USA,Tex.,XTO Energy Inc.,Goldsmith,Ector,1996,330,16,9,San Andres,Dolo.,CO2 MISCIBLE,CO2,11.6,32,4200,35,,,,105,WF,JS,,,TETT,,p
+USA,Tex.,XTO Energy Inc.,Cordona,Crane,1985,2084,44,23,Devonian,Tripol.,CO2 MISCIBLE,CO2,22,4,5500,40,1,,,101,WF,HF,1050,350,Prom.,Yes,LW
+USA,Tex.,XTO Energy Inc.,Wasson,Yoakum,1985,1923,96,64,San Andres,Dolo.,CO2 MISCIBLE,CO2,8.6,2,4500,33,1,,,106,WF,HF,1700,875,Succ.,Yes,LW
+USA,Tex.,XTO Energy Inc.,Wasson,Yoakum,1985,640,49,27,San Andres,Dolo.,CO2 MISCIBLE,CO2,13,6,5100,33,1,54.4,39.2,110,WF,HF,1600,1350,Succ.,Yes,LW
+USA,Wyo.,Arndarko,Salt Creek,Natrona,2005,5,4,1,Wall Creek 1,s,CO2 INMISCIBLE,CO2,17,30,1150,35,0.6,32,24,99,"Prim.,WF",C,,,Prom.,,"P, Exp. L"
+USA,Okla.,Chaparral Energy,Sho-Vel-Tum,Stephens,1998,98,6,1,Aldridge,s,CO2 INMISCIBLE,CO2,20,270,5400,19,45,62,47,105,Prim.,JS,62,60,Succ.,Yes,RW
+USA,Miss.,Denbury Resources,Eucutta,Wayne,2006,2100,55,49,Eulaw,s,CO2 INMISCIBLE,CO2,27,250,5050,22,,42,,152,Prim./WF,NC,3700,3700,Succ.,,FW
+USA,Miss.,Denbury Resources,Martinville,Simpson,2006,180,3,1,Wash-Fred 8500,s,CO2 INMISCIBLE,CO2,27,107,8500,11,,86,,198,Prim.,HF,300,300,Succ.,,Exp. L
+USA,Miss.,Denbury Resources,Tinsley,Yazoo,2007,10104,122,47,Wocdruff,s,CO2 INMISCIBLE,CO2,23,500,5000,34,,30,,164,Prim.MF,HF,9000,9000,Succ.,,Exp. L
+USA,Miss.,Denbury Resources,"Heidelberg, West",Jasper,2008,2500,122,47,Eulaw,s,CO2 INMISCIBLE,CO2,28,300,4800,22,,37,,152,WF,NC,3500,3500,Prom.,,FW
+USA,Miss.,Denbury Resources,"Heidelberg, East",Jasper,2011,2000,25,9,Eulaw,s,CO2 INMISCIBLE,CO2,29,300,4700,23,,37,,152,WF,JS,800,800,Prom.,,FW
+USA,Tex.,Denbury Resources,West Hastings,Brazoria,2010,4420,12,11,Frio,s,CO2 INMISCIBLE,CO2,30,1000,5700,31,1.24,30,,165,Prim.,JS,0,0,Prom.,,FW
+USA,Tex.,Kinder Morgan,Yates,Pecos,2004,26000,606,123,San,Dolo.,CO2 INMISCIBLE,CO2,17,175,1400,30,6,75,54,82,GI,HF,26295,4000,Succ.,Yes,FW
+USA,Alas.,BP Alaska,Prudhoe Bay,,1983,55000,376,162,Sadlerochit,s,HC MISCIBLE,HC MISCIBLE,22,400,8800,27,0.9,50,,210,WF,HF,78000,25000,Succ.,,FW
+USA,Alas.,BP Alaska,Eileen West End,,2002,4000,40,16,Sadlerochit,s,HC MISCIBLE,HC MISCIBLE,19,130,8800,26,1,45,,235,WF,JS,12000,2500,Succ.,,FW
+USA,Alas.,BP Alaska,Aurora,,2003,10000,16,13,Kuparuk River,s,HC MISCIBLE,HC MISCIBLE,20,50,6700,24,2,80,,150,WF,JS,7000,1000,Succ.,,FW
+USA,Alas.,BP Alaska,Borealis,,2004,9000,31,19,Kuparuk River,s,HC MISCIBLE,HC MISCIBLE,20,100,6600,26,2,80,,160,WF,JS,13800,3700,Succ.,,FW
+USA,Alas.,BP Alaska,Orion,,2006,11000,11,25,Schrader Bluff,s,HC MISCIBLE,HC MISCIBLE,25,150,4500,18.5,73.5,65,,85,WF,JS,9600,60C,TETT,,FW
+USA,Alas.,BP Alaska,Polaris,,2004,5000,8,11,Schrader Bluff,s,HC MISCIBLE,HC MISCIBLE,25,150,4900,18.5,73.5,65,,100,WF,NS,3800,,TETT,,FW
+USA,Alas.,BP Alaska,Pt. McIntyre,,2001,6240,55,15,Kuparuk River,s,HC MISCIBLE,HC MISCIBLE,23,200,8800,27,0.9,70,,182,WF,HF,23000,11000,Succ.,,FW
+USA,ocs,ExxonMobil,South Pass Blok,,1983,204,9,5,Series,s,HC MISCIBLE,HC MISCIBLE,26,1250,10000,38,0.5,,,180,Prim.,HF,2100,2100,Succ.,Yes,RW
+USA,ocs,ExxonMobil,South Pass Blok,,1989,20,3,3,Xseries,s,HC MISCIBLE,HC MISCIBLE,26,1000,11000,38,1,,,165,Prim.,NC,200,200,Succ.,Yes,RW
+USA,Alas.,ConocoPhillips,Kuparuk River,,1996,70000,350,260,Kuparuk A&C,s,HC MISCIBLE,HC MISCIBLE,24,275,6000,24,2,75,,160,WF/HC,JS,140000,33000,Succ.,Yes,Exp. L
+USA,Alas.,ConocoPhillips,Tam,,1998,2.4,29,11,Bermuda,s,HC MISCIBLE,HC MISCIBLE,21,20,5200,37,0.6,65,,142,None,JS,22000,,Succ.,Yes,RW
+USA,Alas.,ConocoPhillips,Alpine,,2000,40000,25,22,Alpine,s,HC MISCIBLE,HC MISCIBLE,19,20,7000,40,0.45,80,,160,None,JS,95000,,Prom.,Yes,Exp. L
+USA,Alas.,BP Alaska  ,Milne Point,,1995,20000,100,90,Kuparuk River,s,HC INMISCIBLE,HC MISCIBLE,22,40,7000,22,4,75,,170,WF,,20000,2000,Succ.,,FW
+USA,Tex.,ExxonMobil,Hawkins,Wood,1987,2800,27,6,Woodbine,s,NITROGEN INMISCIBLE,STEAM,28,2800,4600,16,25,,,168,,NC,1500,1000,Succ.,Yes,RW
+USA,Tex.,ExxonMobil,Hawkins,Wood,1994,7790,267,20,Woodbine,s,NITROGEN INMISCIBLE,STEAM,28,2800,4600,24,4,,,168,,JS,9000,3000,Prom.,,RW
+USA,Calif.,Occidental,Elk Hills,Kem,2005,10000,800,60,SubScalez,s,NITROGEN INMISCIBLE,STEAM,28,1500,3,20,20,60,10,130,"Prim.,GI",HF,15000,4000,Succ.,Yes,FW
+USA,Okla.,Cano,Delaware-Childers,Nowata,2006,20,,,Bartlesville,,"Chemical, polymer, surfactant",CHEMICAL,,,625,32,,,,,,,,,,,
+USA,Okla.,Chaparral Energy,North Burbank,Osage,2007,480,19,9,Burbank,s,"Chemical, polymer, surfactant",CHEMICAL,16.8,50,2900,39,3,53,51,122,WF,JS,160,70,Succ.,TETT,Phase 1
+USA,Tex.,Occidental,Midland Farms Unit,Andrews,2010,40,6,1,Grayburg,Dolo.,"Chemical, polymer, surfactant",CHEMICAL,14,40,4800,34,2.63,50,5,102,WF,JS,32,12,HF,,p
+CANADA,Alta.,Apache Canada,Zama-Keg River ,,2004,3840,12,12,Zama-Keg River,Dolo.,Acid gas miscible,CHEMICAL,8,60,4900,36,10.5,40,5,160-176,Prim.,JS,1000,1000,Prom.,Yes,Exp. L
+CANADA,Sask.,Apache Canada,Midale,,2005,30483,43,5,Marly & Vuggy,"Dolo., LS",CO2 MISCIBLE,CO2,16.3,7.5,4600,30,3,45,,149,WF,JS,5900,,Prom.,Yes,FW
+CANADA,Alta.,Devon Canada,Swan Hills,Alta.,2004,,5,1,Beaverhill,LS,CO2 MISCIBLE,CO2,8.5,54,8300,41,0.4,30,5,225,,JS,,,,,p
+CANADA,Sask.,Cenovus,Weyburn unit,Sask.,2000,17280,320,170,Midale,LS/Dolo.,CO2 MISCIBLE,CO2,15,10,4655,28,3,45,30,140,WF,JS,22000,11000,Prom.,,"LW, Exp. L"
+CANADA,Alta,Pengrowth Corporation,Judy Creek,Alta.,2007,80,,1,Swan Hills,LS,CO2 MISCIBLE,CO2,12,50,8200,41.5,0.65,,,206,HC,JS,,,TETT,,
+CANADA,Alta,Penn West Energy Trust,Jofrre,,1984,6625,33,15,Viking,s,CO2 MISCIBLE,CO2,13,500,4900,42,1.14,38,23,133,WF,HF,700,700,Succ.,,FW
+CANADA,Alta.,Penn West Energy Trust,Pembina,,2005,80,6,2,Cardium,s,CO2 MISCIBLE,CO2,16,20,5300,41,1,,,128,WF,JS,,,TETT,,p
+CANADA,Alta.,Conoco Canada,Goose,Alta.,1987,2847,36,14,Beaverhill,LS,HC MISCIBLE,HC MISCIBLE,12,136.5,9150,41,0.3,55,43,230,WF,NC,1900,1700,Succ.,,Exp. UL
+CANADA,Alta.,Devon Canada,Swan Hills,Alta.,1985,19440,400,95,Beaverhill,LS,HC MISCIBLE,HC MISCIBLE,8.5,54,8300,41,0.4,30,5,225,WF,NC,14300,4100,Succ.,Yes,FW
+CANADA,Alta.,ExxonMobil Oil Canada,Rainbow II,Alta.,1983,320,2,,Keg River,"Dolo., LS",HC MISCIBLE,HC MISCIBLE,8.5,2550,5500,39,0.46,45,15,190,WF,HF,50,50,Prom.,Yes,FW
+CANADA,Alta.,ExxonMobil Oil Canada,Rainbow AA,Alta.,1972,800,4,,Keg River,"Dolo., LS",HC MISCIBLE,HC MISCIBLE,8.6,2550,5500,39,0.47,92,15,184,GIMF,NC,10,10,Succ.,Yes,FW
+CANADA,Alta.,ExxonMobil Oil Canada,Rainbow South B,'B',1972,490,8,3,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,6,40,6200,40,0.3,,,183,Prim.,NC,598,598,Succ.,Yes,FW
+CANADA,Alta.,Husky Oil,Rainbow KR B Pool,B,1984,2500,69,11,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,8,300,6000,38,0.83,52,23,188,WF,HF,8810,8810,Succ.,Yes,RW
+CANADA,Alta.,Husky Oil,Rainbow South ,,1994,478,6,3,Keg River,LS,HC MISCIBLE,HC MISCIBLE,9.1,50,6400,43,0.39,67,50,195,WF,Term.,189,189,Disc.,Yes,RW
+CANADA,Alta.,Husky Oil,Rainbow South ,Pool,1995,240,3,2,Keg River,LS,HC MISCIBLE,HC MISCIBLE,8,50,6330,44,0.4,67,50,195,WF,Term.,19,19,Disc.,Yes,RW
+CANADA,Alta.,Husky Oil,Rainbow KR F Pool,,1996,1920,38,11,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,6,1000,6000,48,0.25,50,35,180,WF/GI,JS,3200,3200,Succ.,Yes,RW
+CANADA,Alta.,Imperial Oil,Pembina G Pool,Pool,1989,328,2,,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,8,900,9541,43.2,0.33,80,5,204,Prim.,NC,409,409,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina K Pool,F,1984,126,1,,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,12.7,2020,9469,43.6,0.37,82,5,198,Prim.,NC,208,208,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina L Pool,,1985,625,4,1,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,10.5,1060,9415,40.9,0.42,88,5,199,WF,NC,667,667,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina M Pool,,1983,192,2,1,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,9,540,9333,41.1,0.14,93,5,198,Prim.,NC,472,472,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina O Pool,,1983,346,3,,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,11.8,3100,9332,43.4,0.32,84,5,190,Prim,NC,198,198,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina P Pool,,1983,420,3,1,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,10.3,2400,9531,45.4,0.36,87,5,200,Prim.,NC,340,340,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Pembina Q Pool,,1985,301,1,,Nisku,Dolo.,HC MISCIBLE,HC MISCIBLE,9.8,1970,9421,41.3,0.42,91,5,196,Prim.,NC,220,220,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Wizard Lake ,,1969,2725,20,,Leduc,Dolo.,HC MISCIBLE,HC MISCIBLE,10.5,1375,6500,38,0.54,93,12,167,Prim.,NC,346,346,Succ.,Yes,FW
+CANADA,Alta.,Imperial Oil,Rainbow FF Pool,,1971,102,1,,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,7.3,180,4160,37,0.59,90,5,188,Prim.,NC,17,17,Succ.,Yes,RW
+CANADA,Alta.,Imperial Oil,Rainbow T Pool,,1969,222,2,,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,8.6,320,4330,40,0.69,88,5,188,Prim.,NC,161,161,Succ.,Yes,RW
+CANADA,Alta.,Imperial Oil,Rainbow Z Pool,,1971,221,2,1,Keg River,Dolo.,HC MISCIBLE,HC MISCIBLE,4.25,160,4040,38,0.547,73.5,5,190,Prim.,NC,418,418,Succ.,Yes,RW
+CANADA,Sask.,CNRL,Tangleflags,,1987,285,10,10,Lloydminster,s,STEAM,STEAM,32.5,4000,1480,13,13000,90,38,66,Prim.,TBD,5000,5000,Succ.,Yes,TBD
+CANADA,Alta.,CNRL,Primrose,,1985,160000,750,,Clearwater,s,STEAM,STEAM,32,3000,1600,11,170000,60,30,60,,TBD,70000,70000,Succ.,Yes,TBD
+CANADA,Alta.,Cenovus,Foster Creek,Alta.,1997,,27,27,McMurray,s,STEAM,STEAM,33,7000,1600,10,500000,85,,55,,JS,35000,35000,,,
+CANADA,Alta.,Cenovus,Christian Lake,Alta.,2003,,6,6,McMurray,s,STEAM,STEAM,,,,,,,,,,JS,7000,7000,,,
+CANADA,Sask.,Husky Oil,Pikes  Peak,Sask.,1981,400,102,27,Waseca,us,STEAM,STEAM,33,7500,1640,12,25000,85,,70,,HF,7500,7500,Succ.,Yes,RW
+CANADA,Alta.,Imperial Oil,Cold Lake,Alta.,1964,,4000,4000,Clearwater,us,STEAM,STEAM,35,1500,1509,10.2,100000,70,,55,,HF,154000,154000,Succ.,,FW
+CANADA,Alta.,Imperial Oil,Cold Lake,(Enhanced,2002,32,20,8,Clearwater,us,STEAM,STEAM,32,2000,1395,10,200000,70,,55,CS,HF,,,Prom.,,p
+CANADA,Alta.,Shell Canada,Orion,43715,2007,5120,22,22,Clearwater,s,STEAM,STEAM,33,2000,1350,10,75000,70,10,60,SAGD,JS,10000,,TETT,,Exp. L
+CANADA,Alta.,Shell Canada,Peace River,Alta.,1979,4900,97,109,Bluesky,s,STEAM,STEAM,26.5,3000,1800,8,220000,0.8,0.54,63,"SF, SD, SS",HF,13000,13000,Succ.,Marginal,"P, Exp. L"
+CANADA,Alta.,Shell Canada,Peace River,Alta.,1986,3000,48,48,Cretaceous-Bullhead,s,STEAM,STEAM,28.5,1050,1800,8,100000,80,,62,,JS,5000,5000,Succ.,,Exp. L
+CANADA,Sask.,Talisman,Turner Valley,Sask.,2001,,,,,,NITROGEN INMISCIBLE,STEAM,,,,,,,,,,,,,,,
+CANADA,Alta.,CNRL,Pelican Lake,Alta.,2006,187000,1000,200,Wabiskaw,s,POLYMER,CHEMICAL,29,1250,1500,13,1250,70,40,60,Prim.,TBD,40000,20000,Succ.,Yes,TBD
+CANADA,Alta.,Cenovus,Pelican Lake,Alta.,2004,397000,445,280,Wabiskaw,s,POLYMER,CHEMICAL,30,2750,1200,14.5,1300,75,25,63,WF,HF,20105,5000,Succ.,,RW
+BRAZIL,Bahia,Petrobras,Buracica,1991,1991,1670,,7,Sergi,s,CO2 INMISCIBLE,CO2,22,,1970,35,10.5,,,120,Prim/WF,NC,,,Succ.,Yes,RW
+BRAZIL,Bahia,Petrobras,Rio Pojuca,Pojuca,1999,,,1,Agua Grande,s,CO2 MISCIBLE,CO2,,,5900,36,2,,,183,Prim.,HF,,,TETT,,p
+BRAZIL,Bahia,Petrobras,Miranga,43808,2009,,27,10,Catu-1,s,CO2 MISCIBLE,CO2,20,112,4000,39.4,1.15,,,156,WF,JS,,,TETT,,p
+BRAZIL,Brazil,Petrobras,Carmopolis,43618,2002,,45,10,Carrnopolis,s/Congl.,MICROBIAL,CHEMICAL,17,200,1970,23,28,,,122,WF,NC,,,Prom.,,p
+BRAZIL,Brazil,Petrobras,Estreito,43808,2009,,176,48,Acu,s,STEAM,STEAM,25,4000,1150,15,1700,,,100,Prim.,JS,5700,,TETT,,FW
+BRAZIL,Espirito Santo,Petrobras,Fazenda Alegre,Alegre,2001,1255,59,,Urucutuca,s,STEAM,STEAM,27,2750,2300,13,825,76,,124,Prim.,HF,9500,9500,Succ.,Yes,FW
+BRAZIL,Rio Grande do Norte (RN),Petrobras,Estreito,1984,1984,,700,,Acu,s,STEAM,STEAM,25,4000,1150,15,1700,,,100,Prim.,NC,5700,5700,Succ.,Yes,FW
+BRAZIL,Rio Grande do Norte (RN),Petrobras,Alto Do Rodriguez,do,1984,,500,,Acu,s,STEAM,STEAM,25,3000,1480,15,2500,,,100,Prim.,NC,2500,2500,Succ.,Yes,FW
+BRAZIL,Sergipe,Petrobras,Carmopolis,1978,1978,,200,,Barra ltiuba/,s/Congl.,STEAM,STEAM,22,200,2460,21,500,,,122,,NC,3860,3860,Succ.,Yes,FW
+EGYPT,Cairo,Scimitar,lssaran ,,2004,,180,22,300,Dolo.,CYCLIC STEAM,STEAM,21,20,700,10,72,80,,110,Prim.,JS,4000,3100,Succ.,Prof.,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",Blk.,2007,55,8,1,Valanginian,us,STEAM,STEAM,30,7650,2600,25,175,50,50,100,HW,JS,500,500,Prom.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",Blk.,2005,22,4,1,Valanginian,us,STEAM,STEAM,30,7650,2600,25,175,50,50,100,WF,HF,390,390,Succ.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",Blk.,2001,50,7,1,Valanginian,us,STEAM,STEAM,30,7650,2600,25,175,50,50,100,HW,HF,350,345,Succ.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",,2002,22,3,1,Valanginian,us,STEAM,STEAM,30,7650,2600,25,175,50,50,100,HW,HF,70,70,Succ.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",4,1999,58,9,1,Valanginian,us,STEAM,STEAM,30,7650,2600,25,175,50,50,100,WF,HF,450,450,Succ.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",,2008,37,5,1,Valanginian,s,STEAM,STEAM,30,7650,2600,25,175,50,50,100,,JS,530,530,TETT,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",5f7,2011,295,20,3,Valanginian,s,STEAM,STEAM,30,7650,2600,25,175,50,50,100,,JS,450,450,Prom.,Good,FW
+GERMANY,Grafschaft Bentheim,Wintershall Holding AG ,"Emlichheim,",,2011,150,12,2,Valanginian,s,STEAM,STEAM,30,7650,2600,25,175,50,50,100,,JS,,,,,
+INDONESIA,Pekanbaru,PT Caltex,Duri,1185,1985,30878,2702,1068,Pertama-Kedua,us,STEAM,STEAM,34,1600,550,22,350,62,15,100,Prim.,NC,190000,190000,Succ.,Yes,FW
+INDONESIA,Pekanbaru,PT Caltex,Duri,7f94,1994,27000,1093,532,Rindu,us,STEAM,STEAM,38,1600,350,22,350,60,15,100,Prim.,NC,,,Succ.,Yes,FW
+NETHERLANDS,Drenthe,(NAM),Schoonebeek,43748,2010,1700,,,,,STEAM,STEAM,,,2625,25,,,,,,,,,,,
+TRINIDAD,Parrylands,New Horizon ,Block E,E,2001,744,6,,Forest Sands,s,STEAM,STEAM,36,750,1025,17,5000,80,,97,Prim.,JS,100,,TETT,,LW
+TRINIDAD,Forest Reserve,Petrotrin,Area 2102,2102,1976,58,6,2,Forest Sands,s,CO2 MISCIBLE,CO2,32,175,3000,19,16,56,,120,Prim.,HF,43,43,Succ.,Yes,Exp. L
+TRINIDAD,Forest Reserve,Petrotrin,Area 2121,2121,1974,29,2,2,Forest Sands,s,CO2 MISCIBLE,CO2,30,150,2600,17,32,60,,120,Prim.,HF,,,Prom.,,Exp. L
+TRINIDAD,Forest Reserve,Petrotrin,Area 2124,2124,1986,184,3,1,Forest Sands,s,CO2 MISCIBLE,CO2,31,300,4200,25,6,44,,130,WF,TS,78,78,Prom.,,Exp. L
+TRINIDAD,Forest Reserve,Petrotrin,EOR 34-Cyclic,34-Cyclic,1984,NA,11,,Forest/MLE,s,CO2 MISCIBLE,CO2,29,150,2025,17,78,,,120,Prim.,HF,160,160,Prom.,Yes,
+TRINIDAD,Oropouche,Petrotrin,Oropouche,"6,90",1990,175,4,3,Retrench,s,CO2 MISCIBLE,CO2,30,36,2400,29,5,53,48,120,Prim.,HF,32,32,Prom.,,p
+TRINIDAD,Guapo,Petrotrin,Guapo,8(76,1976,400,80,12,CruseEand F,s,STEAM,STEAM,25,300,2400,11,5500,75,,100,Cyclic,HF,792,792,Succ.,Yes,RW
+TRINIDAD,Point Fortin,Petrotrin,Cruse E,E,1986,66,17,7,Cruse E,s,STEAM,STEAM,31,95,1400,17,175,58,18,110,Prim.,HF,325,325,Prom.,,p
+TRINIDAD,Point Fortin,Petrotrin,Parrylands,7181,1981,86,25,6,Forest,s,STEAM,STEAM,30,500,1100,11,5500,75,20,104,Prim.,HF,89,89,Succ.,Yes,RW
+TRINIDAD,Point Fortin,Petrotrin,Cruse E,E,1995,300,72,27,Cruse E,s,STEAM,STEAM,29,265,2100,17,200,75,,110,Prim.,JS,141,141,Prom.,,RW
+TRINIDAD,Forest Reserve,Petrotrin,Phase 1 Cyclic ,I,1976,58,8,,Forest Sands,s,STEAM,STEAM,31,205,1200,19,32,57,15,105,Prim.,NC,69,69,Disc.,No,RW
+TRINIDAD,Forest Reserve,Petrotrin,Phase 1 West,I,1988,23,3,10,Forest Sands,s,STEAM,STEAM,30,430,1500,17,160,67,25,105,Prim.,JS,76,76,Disc.,No,RW
+TRINIDAD,Forest Reserve,Petrotrin,Phase 1 East,I,1994,40,23,7,Forest Sands,s,STEAM,STEAM,30,270,1100,14,250,70,,110,Prim.,HF,158,158,Disc.,No,RW
+TRINIDAD,Palo Seco,Petrotrin,Bennett Village ,Village,1986,39,26,5,Lower Morne,s,"Water(steam
+scavenging)",HOT WATER,33,250,1000,21.6,18,73,45,103,s,NC,280,280,Succ.,Yes,Exp. UL.
+TRINIDAD,Quarry,Petrotrin,Antilles Quarry,Quarry,1981,70,54,12,Lower Morne,s,"Water(steam
+scavenging)",HOT WATER,29,250,2800,19.2,120,72,51,100,s,NC,330,330,Succ.,Yes,Exp. UL.
+TRINIDAD,North Palo Seco,Petrotrin,North Palo Seco,,1975,300,127,30,Lower Morne,s,STEAM,STEAM,33,260,1200,15,500,71,35,100,c,NC,1132,1132,Succ.,Yes,Exp.  LW
+TURKEY,Batman,TPAO,Bati Raman ,,1986,"12,890",212,69,Garzan,LS,CO2 INMISCIBLE,CO2,18,58,4265,13,592,78,,129,,NC,7000,7000,Succ.,Yes,FW
+VENEZUELA,"Maturin, Campo Mulata",PDVSA,Carito Central,Carita,1996,12000,45,10,Naricual,s,HC MISCIBLE,HC MISCIBLE,14,505,13750,26.5,0.30,80,,290,Prim.,JS,150000,80000,Succ.,yes,FW
+VENEZUELA,"Maturin, Campo Mulata",PDVSA,Carito Oeste,Carita,1997,9500,26,5,Naricual,s,HC MISCIBLE,HC MISCIBLE,15,505,13750,30,0.30,80,,290,Prim.,JS,80000,45000,Succ.,yes,FW
+VENEZUELA,"Maturin, Campo Furrial",PDVSA,Furrial,Furrial,1998,36769,102,43,Naricual,s,HC MISCIBLE,HC MISCIBLE,15,600,13600,26,0.5,75,,290,WF,JS,410000,41000,Prom.,yes,FW
+VENEZUELA,"Maturin, Campo Furrial",PDVSA,Furrial,"8,98",1998,43,1,1,Naricual,s,AGA,CO2,14,430,15440,24,0.5,36,,290,WF,JS,360,520,Prom.,yes,p
+VENEZUELA,"Maturin, Campo Furrial",PDVSA,Furrial,1''/01,2001,634,1,1,Cretaceous ,s,SURFACTANT,CHEMICAL,12,45,14500,27,0.5,36,20,300,WF,JS,100,350,Prom.,Yes,p
+VENEZUELA,"Maturin, Campo Orocual ",PDVSA,Orocual,36647,2000,22776,35,12,R,us,STEAM,STEAM,30,800,2600,12,563,72,,115,Prim.,JS,5500,2500,Prom.,Yes,RW(Exp. L)
+VENEZUELA,Anzoategui,PDVSA,Bare,Bare,2010,1200,,,,,COMBUSTION,COMBUSTION,,,2650,9.8,,,,,,,,,,,
+VENEZUELA,Anzoategui,PDVSA,Bare,Bare,1985,16452,55,48,"U1,3(YAC.MFB-53)",us,STEAM,STEAM,31.9,6600,2650,9.3,376,88,75,131,Prim.,HF,65000,20000,Succ.,Yes,RW(Exp. L)
+VENEZUELA,Anzoategui,PDVSA,Bare,Bare,1987,8066,66,65,"U2,3(YAC.MFB-23)",us,STEAM,STEAM,28.6,5000,3050,9.2,351,83,75,136,Prim.,HF,4500,500,Succ.,Yes,RW(Exp. L)
+VENEZUELA,Anzoategui,PDVSA,Bare,Bare,2006,300,1,1,30,us,STEAM,STEAM,25,3500,3000,9,2325,85,45,130,Prim.,HF,350,350,Succ.,Yes,p
+VENEZUELA,Anzoategui,PDVSA,Bare,Bare,2009,250,1,1,80,us,STEAM,STEAM,30,5000,2200,9,2200,80,45,127,Prim.,JS,1500,1500,TETT,,p
+VENEZUELA,Anzoategui,PDVSA,Arecuna,Arecuna,1985,1668,5,5,5,us,STEAM,STEAM,30.7,5800,2850,10,370,82,74,135,Prim.,NC,,,Disc.,No,P (Exp. UL)
+VENEZUELA,Anzoategui,PDVSA,Arecuna,Arecuna,1983,1544,15,15,T(YAC.MFA-52),us,STEAM,STEAM,30.6,4500,3150,9.8,560,80,72,140,Prim.,NC,,,Prom.,Yes,RW
+VENEZUELA,Anzoategui,PDVSA,Melones,Melones,1983,39909,42,42,"Ul,3(YAC.MM-407)",s,STEAM,STEAM,30,1500,3820,11,270,80,,159,Prim.,HF,8200,3500,Succ.,Yes,RW
+VENEZUELA,Anzoategui,PDVSA,Melones,Melones,1983,26249,53,53,"S5,T (YAC.MM-412)",s,STEAM,STEAM,28,792,3515,14.5,260,80,,154,Prim.,HF,5800,2600,Succ.,Yes,RW
+VENEZUELA,Campo Cerro Negro,PDVSA,B.E.P.-Cerro Negro,E&P,1984,49090,186,,Morichal-Memb.,s,STEAM,STEAM,35,10000,2000,8.5,5500,80,,125,Prim.,HF,650,400,Succ.,Yes,P (Exp. L)
+VENEZUELA,Campo Jobo,PDVSA,Jobo,Steam,1969,25410,88,,Jobo Member,s,STEAM,STEAM,31,2500,3260,13.5,138,80,,130,Prim.,HF,14101,,Succ.,Yes,FW
+VENEZUELA,Campo Jobo,PDVSA,Jobo,Steam,1985,267,17,,Morichal,s,STEAM,STEAM,30,5000,3600,9,1952,85,,132,Prim.,NC,1530,,Succ.,Yes,P (Exp. L)
+VENEZUELA,Campo Jobo,PDVSA,Jobo,Steam,1969,34099,301,,Morichal,s,STEAM,STEAM,30,5000,3600,9,1952,85,,132,Prim.,JS,5607,514,Succ.,Yes,FW
+VENEZUELA,Campo Pilon,PDVSA,West Pilon,Steam,1969,1065,8,,Oficina-1,s,STEAM,STEAM,31,8000,3350,10,727,82,,139,Prim.,JS,23912,,Succ.,Yes,RW
+VENEZUELA,Zulia,PDVSA,Bachaquero Lago,Bachaq,1980,343,2,,Bachaquero Superior,s,STEAM,STEAM,23,1500,3400,14,185,85,,135,Prim.,JS,32517,17997,Succ.,Yes,P (Exp. L)
+VENEZUELA,Zulia,PDVSA,Lagunillas Lago,Lagunillas,1971,9343,522,2,Bachaquero,s,STEAM,STEAM,34,4000,2690,12,600,84,,128,Prim.,HF,44219,31135,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Tia Juana,Tia,1970,1692,25,,Lagunillas Inferior,s,STEAM,STEAM,31,1250,2537,15,93,72,,119,,HF,5916,3815,Succ.,Yes,P (Exp. L)
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1965,420,59,,U.L.H.,s,STEAM,STEAM,35,,2300,11.4,3500,75,44,117,Prim.,NC,2318,2318,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1964,76,7,,L.L,s,STEAM,STEAM,33.7,,2850,15.2,2500,80,50,125,Prim.,NC,257,257,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1967,618,54,,U.L.H.,s,STEAM,STEAM,35,,2300,11.4,3500,75,46,117,Prim.,NC,2629,2629,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1970,3025,147,,L.L,s,STEAM,STEAM,33.7,,2850,15.2,2500,87,54,122,Prim.,HF,2675,2675,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1970,2565,220,,U.L.H.,s,STEAM,STEAM,35,,2300,11.8,7000,75,54,115,Prim.,HF,21016,21016,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1970,2114,175,,U.L.H.,s,STEAM,STEAM,35,,2300,11.4,3500,75,63,118,Prim.,HF,5872,5872,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1979,3101,261,,L.L,s,STEAM,STEAM,33.7,,2850,15,580,87,66,126,Prim.,HF,4399,4399,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Lagunillas,Lagunillas,1980,3565,297,,U.L.H.,s,STEAM,STEAM,35,,2300,11,20000,75,63,125,Prim.,HF,19920,19920,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Bachaquero,Bachaquero,1984,7795,640,,Post-Eocene,s,STEAM,STEAM,33.5,575,2000,13,500,84.5,40,117,Prim.,JS,15190,15190,190,Succ.,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,21641,1959,341,32,,L.L,s,STEAM,STEAM,33.5,2500,1500,12,1000,85,48,108,Prim.,HF,470,470,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,22313,1961,35,7,,L.L,s,STEAM,STEAM,38.1,1300,1746,13.6,13000,85,45,100,Prim.,NC,171,171,Succ.,Yes,p
+VENEZUELA,Zulia,PDVSA,East Tia Juana,9164,1964,411,36,,L.L,s,STEAM,STEAM,38,3000,1250,12,3000,85,65,104,Prim.,HF,489,375,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,5168,1968,2755,201,,L.L,s,STEAM,STEAM,38.1,,1200,12,750,85,64,104,Prim.,HF,4806,4139,Succ.,Prom.,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,8168,1968,3218,250,,L.L,s,STEAM,STEAM,38.1,3000,872,12,5000,81,74,104,Prim.,HF,7778,7257,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,25173,1968,1961,168,,L.L,s,STEAM,STEAM,38,,1250,12,7500,85,67,106,Prim.,HF,6415,6052,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,25263,1969,1768,145,,L.L,s,STEAM,STEAM,38.1,780,1700,12.1,2000,85,67,111,Prim.,HF,4233,3636,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,25416,1969,1642,148,,L.L,s,STEAM,STEAM,38.1,1300,1250,10,12000,85,77,102,Prim.,HF,5316,5316,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,25538,1969,392,36,,L.L,s,STEAM,STEAM,38.1,,1000,11.1,10000,85,72,95,Prim.,HF,963,963,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,27334,1974,1848,135,21,L.L,s,STEAM,STEAM,38.1,780,1597,12,1000,85,46,111,Prim.,HF,2100,2100,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,East Tia Juana,9186,1986,1380,144,,L.L,s,STEAM,STEAM,36,1250,760,10,17500,85,82,110,Prim.,HF,6857,6857,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,23285,1963,867,82,,L.L,s,STEAM,STEAM,38.1,1400,1750,13.1,750,85,57,113,,NC,842,842,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,24259,1966,144,15,,L.L,s,STEAM,STEAM,38.1,675,1250,13.1,1300,85,65,104,Prim.,NC,120,120,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,24654,1967,1291,114,,L.L,s,STEAM,STEAM,38.8,675,1209,13.1,5000,85,61,123,Prim.,HF,3412,3412,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,24654,1967,1500,134,,L.L,s,STEAM,STEAM,38.1,1000,1400,13.1,1000,85,65,110,Prim.,HF,4224,4224,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,24746,1967,2323,197,,L.L,s,STEAM,STEAM,38.1,1000,1746,13.1,4100,85,62,110,Prim.,HF,4264,3878,Succ.,Yes,FW
+VENEZUELA,Zulia,PDVSA,Main Tia Juana,24746,1967,1286,86,,L.L,s,STEAM,STEAM,38.1,1000,1746,13.1,1200,85,76,110,Prim.,HF,1129,1129,Succ.,Yes,FW
